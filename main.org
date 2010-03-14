@@ -7,7 +7,7 @@
    :END:
 * TODAY
 ** TODO разобрать бардак в шкафу
-   SCHEDULED: <2010-01-10 Sun>
+<2010-01-14 Thu>
 * NOTES
 
 * wi-fi
